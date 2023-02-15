@@ -1,3 +1,9 @@
-API_URL_POPULAR = "https://api.themoviedb.org/3/movie/popular?api_key=5fa59009a2726571edde89a1451ae66c"
-API_IMG = "https://image.tmdb.org/t/p/w500/"
-API_SEARCH = "https://api.themoviedb.org/3/search/movie?api_key=5fa59009a2726571edde89a1451ae66c&query"
+My first proyect done in 1 week.
+List all popular movies.
+Search movie box.
+Register / Login for users.
+Add to favourites.
+User Panel.
+
+Javascript, React and Bootstrap.
+NodeJs, Express, Sequelize and JWT.
