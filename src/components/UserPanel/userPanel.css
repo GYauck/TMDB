@@ -1,0 +1,13 @@
+.grid-user {
+    display: grid;
+    margin-left: .5px;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 0.2em;
+    justify-content: center;
+    margin-top: 50px;
+    justify-content: space-evenly;
+  }
+
+  .imgBox{
+    height: 400px;
+  }

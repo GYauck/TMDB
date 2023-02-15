@@ -1,0 +1,26 @@
+.form-box {
+    box-shadow: 0px 0px 15px 5px black;
+    max-width: 500px;
+    height: 100vh;
+    
+}
+
+.log-container {
+    width: 100%;
+    margin: 10em auto;
+    background-color: rgb(33, 38, 32);
+    flex-direction: row;
+    
+  }
+
+.log-button{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    max-width: 100px;
+}
+div.row{
+    color: aliceblue;
+}

@@ -1,0 +1,13 @@
+button{
+    
+    padding-left: 50px;
+    max-width: 100%;
+    
+}
+
+.divButton {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
